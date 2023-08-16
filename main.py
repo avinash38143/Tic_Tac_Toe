@@ -120,4 +120,4 @@ def play_game():
     elif winner == 2:
         print("Computer wins!")
 
-play_game(
+play_game()
